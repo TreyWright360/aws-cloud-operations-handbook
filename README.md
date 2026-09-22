@@ -63,7 +63,7 @@ The recording workspace is private. Publish a video link only after the demonstr
 | [Cloud security and IAM governance](https://github.com/TreyWright360/aws-cloud-security-iam-governance) | IAM, Config, Access Analyzer, remediation modules | AccessDenied and governance |
 | [Enterprise DataOps migration](https://github.com/TreyWright360/aws-enterprise-dataops-migration-pipeline) | DMS, streaming, Glue, S3 replication modules | Migration and recovery dependencies |
 | [ECS Bedrock DevSecOps](https://github.com/TreyWright360/aws-ecs-bedrock-devsecops) | FastAPI, Docker, ECS Terraform, CI | Deployment failure and rollback design |
-| [Resilient event-driven pipeline](https://github.com/TreyWright360/aws-resilient-event-driven-pipeline) | README only at this review | Failure and replay design; implementation pending |
+| [Resilient event-driven pipeline](https://github.com/TreyWright360/aws-resilient-event-driven-pipeline) | Documentation only; implementation pending | Failure and replay design |
 
 ## Evidence labels
 
