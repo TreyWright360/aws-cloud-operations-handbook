@@ -13,6 +13,7 @@ This knowledge base provides tailored operational runbooks for each primary targ
 | **3** | **AI Solutions Architect / AI Agent Developer** | GenAI, LLMs, Voice AI | LLM API 429 Rate Throttling, RAG Vector Search Latency & Fallbacks | [03_AI_SOLUTIONS_ARCHITECT_RUNBOOK.md](03_AI_SOLUTIONS_ARCHITECT_RUNBOOK.md) |
 | **4** | **Site Reliability Engineer (SRE) / Cloud Ops** | Uptime & Resilience | Post-Deployment ALB 504/503 Cascading Failure & Instant Rollback | [04_SRE_CLOUD_OPERATIONS_RUNBOOK.md](04_SRE_CLOUD_OPERATIONS_RUNBOOK.md) |
 | **5** | **Data Analyst / BI Developer** | Power BI, SQL, Analytics | Semantic Model Refresh Failure, Schema Drift, DAX Optimization | [05_DATA_ANALYST_BI_DEVELOPER_RUNBOOK.md](05_DATA_ANALYST_BI_DEVELOPER_RUNBOOK.md) |
+| **6** | **Cybersecurity GRC Analyst / Compliance Specialist** | SOC 2, ISO 27001, Risk Management | Pre-Audit Major Non-Conformance Discovery & Corrective Action Plan (CAP) | [06_CYBERSECURITY_GRC_ANALYST_RUNBOOK.md](06_CYBERSECURITY_GRC_ANALYST_RUNBOOK.md) |
 
 ---
 
